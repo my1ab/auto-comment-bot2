@@ -1,2 +1,3 @@
-# auto-comment-bot2
-MCP-Universe evaluator fixture
+# README.md
+
+MCP-Universe evaluator fixture file.
